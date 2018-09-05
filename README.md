@@ -1,3 +1,3 @@
 # SQL-Database-Query-Project
 
-![image](https://user-images.githubusercontent.com/32308521/45070588-eef32180-b09f-11e8-866c-00ad858052b2.png)
+[Project Report (4).docx](https://github.com/rajindergiran/SQL-Database-Query-Project/files/2351177/Project.Report.4.docx)
